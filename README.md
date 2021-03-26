@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... HRF Asylum
 - 🌱 I’m currently learning ... how to scrape data well
 - 👯 I’m looking to collaborate on ... data analysis on policy
-- 🤔 I’m looking for help with ... finding a job
+- 🤔 I’m looking for help with ... starting my career
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... begogineni@gmail.com
 - 😄 Pronouns: ... He/Him
