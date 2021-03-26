@@ -1,15 +1,14 @@
-### I am currently a student of Lambda and here's what I'm currently working on.
+### I (He/Him) am currently a student of Lambda School and here's what I'm currently working on.
 
+- As a history and policy nerd, I am always looking for new ways to understand why society does what it does 
+- I love data analysis and creating visualizations, so if there is data you find interesting to play with, feel free to send it my way.
+- Love all kinds of games from board games to video games to card games. The mechanics behind how each game works is what drives entertainment!
 
+Skills - 
+SQL, Python, Docker, Flask, Data Visualization, Agile Leadership, Agile & Waterfall Methodologies, 
+Break-even Analysis, Code Review, Data Analysis, Data-driven Decision Making, ETL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... HRF Asylum
-- 🌱 I’m currently learning ... how to scrape data well
-- 👯 I’m looking to collaborate on ... data analysis on policy
-- 🤔 I’m looking for help with ... starting my career
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... begogineni@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I always have a variety of animal facts in my arsenal
--->
+Contact me @ 
+- begogineni@gmail.com 
+- @BharathGoginen3 on Twitter
+- Right here on Github!
