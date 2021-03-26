@@ -11,4 +11,5 @@ Break-even Analysis, Code Review, Data Analysis, Data-driven Decision Making, ET
 Contact me @ 
 - begogineni@gmail.com 
 - @BharathGoginen3 on Twitter
+- [My LinkedIn](https://www.linkedin.com/in/b-gogineni/)
 - Right here on Github!
